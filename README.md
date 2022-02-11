@@ -1,4 +1,6 @@
-бот дозволяє переглядати каталог, обирати потрібну форму,запах,розмір та добавляти обраний товар до корзини із варіантом очищення корзини та перезапуску бота із 0
-бота можна покращити(додати більше вибору до каталогу та зробити пошукач із фільтром пошуку, додати способи оплати та доставки. Я не робив покращень так як боюся нашкодити. Коли зявиться більший досвід у даній сфері планую зайнятися цим питанням.
+bot allows you to view the catalog, choose a product with additional settings.
+in version 2.0 replaced the pytelegrambotapi library with aiogram.
+Replaced all buttons with an updated version. Added the ability to view photos of the product. Ability to order goods without contacting people.
+in the future we plan to add the ability to pay by telegram
 @Kings_Bombs_Bot
-Дякую за увагу!
+Thank you!
