@@ -1,12 +1,4 @@
-from aiogram import Bot, types
-from aiogram.dispatcher import Dispatcher
-from aiogram.utils import executor
-from aiogram import types
-from aiogram.types import ReplyKeyboardRemove, \
-    ReplyKeyboardMarkup, KeyboardButton, \
-    InlineKeyboardMarkup, InlineKeyboardButton
-
-TOKEN = '1946562538:AAFfw_CFeOcDRfoLpQdLeWc_4-Y5zvsjh3A'
+TOKEN = '............................'
 price = ''
 suma = 0
 star = "✨"
