@@ -1,4 +1,7 @@
-import pyTelegramBotAPI
-import telebot;
-from telebot import types
-# створення телеграм бота для магазину з допомогою (pyTelegramBotAPI)
+from aiogram import Bot, types
+from aiogram.dispatcher import Dispatcher
+from aiogram.utils import executor
+from aiogram import types
+from aiogram.types import ReplyKeyboardRemove, \
+    ReplyKeyboardMarkup, KeyboardButton, \
+    InlineKeyboardMarkup, InlineKeyboardButton
